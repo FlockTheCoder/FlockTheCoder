@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FlockTheCoder from Vienna, Austria
+- 👀 I’m interested in creating great things by coding
+- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 💞️ I’m looking to collaborate on projects, fun & commercial
+- 📫 You can reach me at flockthecoder@gmail.com
